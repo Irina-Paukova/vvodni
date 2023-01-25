@@ -1,0 +1,24 @@
+h1 {
+	color: red;
+	text-align: center;
+}
+
+p {
+	color: green;
+	text-align: center;
+}
+
+body {
+	background: url(1645056408_5-krot-info-p-abstraktnie-geometricheskie-foni-5.jpg);
+	text-align: center;
+}
+
+a {
+	border: blue 1px solid;
+	background: lightblue;
+	padding: 10px;
+	color: black;
+	text-decoration: none;
+	border-radius: 10px;
+}
+
